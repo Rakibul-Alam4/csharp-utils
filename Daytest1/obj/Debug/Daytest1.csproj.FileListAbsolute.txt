@@ -1,0 +1,7 @@
+C:\C# Practice\Daytest1\Daytest1\bin\Debug\Daytest1.exe.config
+C:\C# Practice\Daytest1\Daytest1\bin\Debug\Daytest1.exe
+C:\C# Practice\Daytest1\Daytest1\bin\Debug\Daytest1.pdb
+C:\C# Practice\Daytest1\Daytest1\obj\Debug\Daytest1.csproj.AssemblyReference.cache
+C:\C# Practice\Daytest1\Daytest1\obj\Debug\Daytest1.csproj.CoreCompileInputs.cache
+C:\C# Practice\Daytest1\Daytest1\obj\Debug\Daytest1.exe
+C:\C# Practice\Daytest1\Daytest1\obj\Debug\Daytest1.pdb
