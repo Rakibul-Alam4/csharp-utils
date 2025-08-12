@@ -1,0 +1,7 @@
+C:\C# Practice\dtp\dtp\bin\Debug\dtp.exe.config
+C:\C# Practice\dtp\dtp\bin\Debug\dtp.exe
+C:\C# Practice\dtp\dtp\bin\Debug\dtp.pdb
+C:\C# Practice\dtp\dtp\obj\Debug\dtp.csproj.AssemblyReference.cache
+C:\C# Practice\dtp\dtp\obj\Debug\dtp.csproj.CoreCompileInputs.cache
+C:\C# Practice\dtp\dtp\obj\Debug\dtp.exe
+C:\C# Practice\dtp\dtp\obj\Debug\dtp.pdb
