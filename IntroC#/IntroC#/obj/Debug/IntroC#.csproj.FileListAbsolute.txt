@@ -1,0 +1,7 @@
+C:\C# Practice\IntroC#\IntroC#\bin\Debug\IntroC#.exe.config
+C:\C# Practice\IntroC#\IntroC#\bin\Debug\IntroC#.exe
+C:\C# Practice\IntroC#\IntroC#\bin\Debug\IntroC#.pdb
+C:\C# Practice\IntroC#\IntroC#\obj\Debug\IntroC#.csproj.AssemblyReference.cache
+C:\C# Practice\IntroC#\IntroC#\obj\Debug\IntroC#.csproj.CoreCompileInputs.cache
+C:\C# Practice\IntroC#\IntroC#\obj\Debug\IntroC#.exe
+C:\C# Practice\IntroC#\IntroC#\obj\Debug\IntroC#.pdb
