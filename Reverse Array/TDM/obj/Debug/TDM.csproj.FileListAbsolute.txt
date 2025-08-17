@@ -1,0 +1,7 @@
+C:\C# Practice\TDM\TDM\bin\Debug\TDM.exe.config
+C:\C# Practice\TDM\TDM\bin\Debug\TDM.exe
+C:\C# Practice\TDM\TDM\bin\Debug\TDM.pdb
+C:\C# Practice\TDM\TDM\obj\Debug\TDM.csproj.AssemblyReference.cache
+C:\C# Practice\TDM\TDM\obj\Debug\TDM.csproj.CoreCompileInputs.cache
+C:\C# Practice\TDM\TDM\obj\Debug\TDM.exe
+C:\C# Practice\TDM\TDM\obj\Debug\TDM.pdb
