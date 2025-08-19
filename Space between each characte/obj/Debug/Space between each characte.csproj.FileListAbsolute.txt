@@ -1,0 +1,7 @@
+C:\C# Practice\Space between each characte\Space between each characte\bin\Debug\Space between each characte.exe.config
+C:\C# Practice\Space between each characte\Space between each characte\bin\Debug\Space between each characte.exe
+C:\C# Practice\Space between each characte\Space between each characte\bin\Debug\Space between each characte.pdb
+C:\C# Practice\Space between each characte\Space between each characte\obj\Debug\Space between each characte.csproj.AssemblyReference.cache
+C:\C# Practice\Space between each characte\Space between each characte\obj\Debug\Space between each characte.csproj.CoreCompileInputs.cache
+C:\C# Practice\Space between each characte\Space between each characte\obj\Debug\Space between each characte.exe
+C:\C# Practice\Space between each characte\Space between each characte\obj\Debug\Space between each characte.pdb
