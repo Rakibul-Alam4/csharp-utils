@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space between each characte", "Space between each characte\Space between each characte.csproj", "{5ECAA6FA-289C-4161-BEB4-80DA5C66DCBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECAA6FA-289C-4161-BEB4-80DA5C66DCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECAA6FA-289C-4161-BEB4-80DA5C66DCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECAA6FA-289C-4161-BEB4-80DA5C66DCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECAA6FA-289C-4161-BEB4-80DA5C66DCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F904A859-701C-4D08-9B1F-9295DE7B6A44}
+	EndGlobalSection
+EndGlobal
