@@ -1,0 +1,7 @@
+C:\C# Practice\test2\testd\bin\Debug\testd.exe.config
+C:\C# Practice\test2\testd\bin\Debug\testd.exe
+C:\C# Practice\test2\testd\bin\Debug\testd.pdb
+C:\C# Practice\test2\testd\obj\Debug\testd.csproj.AssemblyReference.cache
+C:\C# Practice\test2\testd\obj\Debug\testd.csproj.CoreCompileInputs.cache
+C:\C# Practice\test2\testd\obj\Debug\testd.exe
+C:\C# Practice\test2\testd\obj\Debug\testd.pdb
