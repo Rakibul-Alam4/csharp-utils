@@ -1,0 +1,7 @@
+C:\C# Practice\test2\Employee\bin\Debug\Employee.exe.config
+C:\C# Practice\test2\Employee\bin\Debug\Employee.exe
+C:\C# Practice\test2\Employee\bin\Debug\Employee.pdb
+C:\C# Practice\test2\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\C# Practice\test2\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\C# Practice\test2\Employee\obj\Debug\Employee.exe
+C:\C# Practice\test2\Employee\obj\Debug\Employee.pdb
